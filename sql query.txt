@@ -1,0 +1,39 @@
+1.Retrieve the EmployeeID and FirstName for employees who are in the 'IT' department and are older than 30.
+
+2.Find the average age of employees in the 'Marketing' department.
+
+3.List the departments where the total number of employees is greater than 2.
+
+4.Retrieve the names of employees who have the same last name and are in the same department.
+
+5.Find the department(s) with the highest average age.
+
+6.List the departments with more than two employees and order the result by department name.
+
+7.Retrieve the employee(s) with the highest age in each department.
+
+8.Calculate the total number of employees in each department, including those with no employees.
+
+9.Find the average age of employees who work in departments with at least one employee older than 30.
+
+10.List the departments where the average age is below the overall average age of all employees.
+
+11.Retrieve the employee(s) with the lowest age in the 'Finance' department.
+
+12.Count the number of employees who have the same first name.
+
+13.Find the department with the highest total age of employees.
+
+14.Retrieve employees who have the same age and are in different departments.
+
+15.Calculate the total number of employees for each combination of department and age.
+
+16.List the employees who have the same age as at least one other employee.
+
+17.Retrieve the employee(s) with the highest age who work in departments with at least three employees.
+
+18.Find the departments where the total number of employees is odd.
+
+19.Retrieve the department(s) with the highest total age but exclude 'Marketing' from the result.
+
+20.List the departments where the average age is above the overall average age of all employees.
